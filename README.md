@@ -35,7 +35,11 @@ There are only 700 engineers who can serve as mentors to those who would replace
 
 ## Summary
 
-The tables above paint a bleak picture. The query `select count(emp_no) from unique_titles` reveals that approximately 90,400 employees will be retiring, over 40,00 of those are engineers. They will require highly educated and trained employees to replace them. 
+The tables above paint a daunting picture. The query `select count(emp_no) from unique_titles` reveals that approximately 90,400 employees will be retiring, over 40,00 of those are engineers. They will require highly educated and trained employees to replace them. To make matters worse, from the criteria I was given there are only 1,549 mentors and only 700 them can serve as mentors to the engineers. However, all is not lost. We may be able to hire new engineers from within the company. As the figure below shows, there are over 100,000 engineers in the company. We may be able to promote many of them to senior engineers. Moreover, there are over 15,000 assistant engineers and over 12,000 of them are not close to retirement. Many of them could be promoted to engineers while new hires could become assistant engineers who would be easier to train.
+
+![employees by unique title](https://github.com/LiShanDa2021/Pewlett-Hackard-Analysis/blob/main/data/Screen%20Shot%202021-10-26%20at%203.09.20%20PM.png?raw=true)
+
+Finally, we may be needlessly limiting ourselves by restricting eligibility to mentor to employees born in 1965. If we expand the eligibility window to five years (1960-65), the results look more promising.
 
 with a few adjustments, 
 
