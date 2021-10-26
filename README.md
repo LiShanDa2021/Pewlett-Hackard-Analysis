@@ -21,14 +21,14 @@ The chart below shows the number of vacancies by title the silver tsunami will c
 
 The next figure shows how many employees are eligible to become mentors.
 
-[number of mentors](https://github.com/LiShanDa2021/Pewlett-Hackard-Analysis/blob/main/data/Screen%20Shot%202021-10-25%20at%207.05.56%20PM.png?raw=true)
+![number of mentors](https://github.com/LiShanDa2021/Pewlett-Hackard-Analysis/blob/main/data/Screen%20Shot%202021-10-25%20at%207.05.56%20PM.png?raw=true)
 
 * There are only 1,549 potential mentors.
    + This is vastly smaller than the number of employees entering retirement
 
 When the potential mentors are separated by title, the picture becomes even bleaker.
 
-[number of mentors by title](![image](https://user-images.githubusercontent.com/87392984/138949431-f0cd7dd3-dc99-4002-bdce-7eb43167d269.png)
+![number of mentors by title](https://user-images.githubusercontent.com/87392984/138949431-f0cd7dd3-dc99-4002-bdce-7eb43167d269.png)
 
 There are only 700 engineers who can serve as mentors to those who would replace the 40,000 plus engineers who are retiring. That means each mentor would have over 50 mentees which is simply not possible.
 
