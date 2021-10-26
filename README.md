@@ -7,8 +7,19 @@ Pewlett Hackard is facing a "silver tsunami". As an established company, thousan
 ## Results
 Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
+The chart below shows the number of vacancies by title the silver tsunami will create. Below the chart are conclusions that can be drawn from it.
 
-jobs
+![retirements by title](https://github.com/LiShanDa2021/Pewlett-Hackard-Analysis/blob/main/data/Screen%20Shot%202021-10-25%20at%205.25.59%20PM.png?raw=true)
+
+* There will be a mass exodus of engineers and staff -- particularly senior. 
+  + Engineers will be particularly hard to replace because they require more specialized education and training.
+
+* Relatively few assistant engineers will be leaving.
+  + These will probably be easier to replace
+
+
+
+--find out how many assistant engineers total
 
 
 ## Summary
